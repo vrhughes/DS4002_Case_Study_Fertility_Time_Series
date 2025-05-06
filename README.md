@@ -28,6 +28,9 @@ The required raw datasets for this study are:
 
 ## Resource References
 “14 - Panel Data and Fixed Effects — Causal Inference for the Brave and True.” Accessed: May 06, 2025. [Online]. Available: https://matheusfacure.github.io/python-causality-handbook/14-Panel-Data-and-Fixed-Effects.html
+
 “What Is an ARIMAX Model? | GeeksforGeeks.” Accessed: May 06, 2025. [Online]. Available: https://www.geeksforgeeks.org/what-is-an-arimax-model/
+
 K. Imai and I. S. Kim, “On the Use of Two-Way Fixed Effects Regression Models for Causal Inference with Panel Data,” Polit. Anal., vol. 29, no. 3, pp. 405–415, Jul. 2021, doi: 10.1017/pan.2020.33.
+
 M. Roser, “The global decline of the fertility rate,” Our World in Data, Feb. 2014, Accessed: May 06, 2025. [Online]. Available: https://ourworldindata.org/global-decline-fertility-rate
