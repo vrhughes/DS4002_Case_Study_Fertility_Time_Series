@@ -4,13 +4,13 @@
 
 ## Data
 The required raw datasets for this study are:
-    1. GDP-Per-Capita-Current-USD.csv
-    2. Homicides-Per-100000.csv
-    3. attainment_and_fertility.csv
-    4. children-born-per-woman.csv
-    5. fertility-rate-with-projections.csv
-    6. infant_mortality.csv
-    7. life-expectancy.csv are both located under materials/data and can be accessed They can all be found in the _____ folder. 
+1. GDP-Per-Capita-Current-USD.csv
+2. Homicides-Per-100000.csv
+3. attainment_and_fertility.csv
+4. children-born-per-woman.csv
+5. fertility-rate-with-projections.csv
+6. infant_mortality.csv
+7. life-expectancy.csv are both located under materials/data and can be accessed They can all be found in the _____ folder. 
 
 The corresponding references for each dataset are listed below:
 1. Data compiled from multiple sources by World Bank (2025) – with minor processing by Our World in Data. “GDP per capita – World Bank – In constant international-$” [dataset]. Data compiled from multiple sources by World Bank, “World Development Indicators” [original data]. Retrieved March 5, 2025 from https://ourworldindata.org/grapher/gdp-per-capita-worldbank 
