@@ -1,16 +1,18 @@
 # DS4002_Case_Study_Fertility_Time_Series
 
 ## Hook and Rubric
+The hook document describing the case study is titled HookDocument.pdf and is located in the main part of the repository. Similarly, the rubric document is titled Rubric.pdf and is located in the main part of the repository. The rubric document outlines formatting details, final deliverables and submission requirements, and tips on how to approach this case study. 
 
 ## Data
 The required raw datasets for this study are:
-1. GDP-Per-Capita-Current-USD.csv
-2. Homicides-Per-100000.csv
-3. attainment_and_fertility.csv
-4. children-born-per-woman.csv
-5. fertility-rate-with-projections.csv
+1. GDP_per_capita_current_USD.csv
+2. homicides_per_100000.csv
+3. womens_educational_attainment.csv
+4. fertility_rate.csv
+5. UN_fertility_projections.csv
 6. infant_mortality.csv
-7. life-expectancy.csv are both located under materials/data and can be accessed They can all be found in the DATA folder. 
+7. life-expectancy.csv
+They can all be found in the DATA folder. 
 
 <details>
 <summary>The corresponding references for the datasets are listed as needed.</summary>
@@ -26,16 +28,16 @@ The required raw datasets for this study are:
 </details>
 
 ## Source Code
-Starter code for this project can be found in the SCRIPTS folder. It contains 6 SCRIPTS that were previously used to run an analysis. The scripts will give insights on how to combine the datasets and run TWFE and ARIMAX. The scripts are ordered as follows:
+Starter code for this project can be found in the RESOURCES folder. It contains 6 scripts that were previously used to run an analysis. The scripts will give insights on how to combine the datasets and run TWFE and ARIMAX. The scripts are ordered as follows:
 
 1. GDP_csv_organizing.ipynb
-2. Data_Consolidation.ipynb
+2. data_consolidation.ipynb
 3. edu_attainment_linear_reg_analysis.ipynb
 4. ARIMA_data_cleaning.ipynb
 5. TWFE.ipynb
 6. full_ARIMAX.ipynb
 
-## Resource References
+## Resource References (pdfs in REFERENCES folder)
 “14 - Panel Data and Fixed Effects — Causal Inference for the Brave and True.” Accessed: May 06, 2025. [Online]. Available: https://matheusfacure.github.io/python-causality-handbook/14-Panel-Data-and-Fixed-Effects.html
 
 “What Is an ARIMAX Model? | GeeksforGeeks.” Accessed: May 06, 2025. [Online]. Available: https://www.geeksforgeeks.org/what-is-an-arimax-model/
