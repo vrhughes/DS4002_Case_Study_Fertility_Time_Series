@@ -10,7 +10,7 @@ The required raw datasets for this study are:
 4. children-born-per-woman.csv
 5. fertility-rate-with-projections.csv
 6. infant_mortality.csv
-7. life-expectancy.csv are both located under materials/data and can be accessed They can all be found in the _____ folder. 
+7. life-expectancy.csv are both located under materials/data and can be accessed They can all be found in the DATA folder. 
 
 <details>
 <summary>The corresponding references for the datasets are listed as needed.</summary>
@@ -26,6 +26,14 @@ The required raw datasets for this study are:
 </details>
 
 ## Source Code
+Starter code for this project can be found in the SCRIPTS folder. It contains 6 SCRIPTS that were previously used to run an analysis. The scripts will give insights on how to combine the datasets and run TWFE and ARIMAX. The scripts are ordered as follows:
+
+1. GDP_csv_organizing.ipynb
+2. Data_Consolidation.ipynb
+3. edu_attainment_linear_reg_analysis.ipynb
+4. ARIMA_data_cleaning.ipynb
+5. TWFE.ipynb
+6. full_ARIMAX.ipynb
 
 ## Resource References
 “14 - Panel Data and Fixed Effects — Causal Inference for the Brave and True.” Accessed: May 06, 2025. [Online]. Available: https://matheusfacure.github.io/python-causality-handbook/14-Panel-Data-and-Fixed-Effects.html
